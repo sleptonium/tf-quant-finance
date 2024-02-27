@@ -2,3 +2,4 @@ attrs >= 18.2.0
 google-cloud-storage==1.28.0
 tf-nightly
 tfp-nightly
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
