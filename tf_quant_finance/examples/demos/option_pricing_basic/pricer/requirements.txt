@@ -4,3 +4,4 @@ numpy==1.22.0
 tf-nightly
 tfp-nightly
 tff-nightly
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
