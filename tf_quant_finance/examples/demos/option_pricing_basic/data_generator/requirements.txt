@@ -2,3 +2,5 @@ attrs >= 18.2.0
 google-cloud-storage==1.28.0
 tf-nightly
 tfp-nightly
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
